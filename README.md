@@ -1,2 +1,2 @@
-# Skinora
-A modern skincare web platform focused on natural beauty, built with clean UI and user-friendly design.
+# CreamyCloud
+A web application for an ice cream shop, designed to highlight flavors, offers, and a delightful browsing experience.
